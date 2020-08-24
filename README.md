@@ -24,3 +24,4 @@ Crossroads will function as a community hub for users to track their favortie lo
 
 # Presentation
 
+* https://github.com/RJTveit/Crossroads/blob/master/Crossraods_Concept.pptx
