@@ -51,9 +51,9 @@ The inspiration for this project came from my youngest sister, who has her own b
 
 # User Stories
 
-
-|----|------------|
 | ID | User Story |
+-----|-------------
+ 1.1 | As a user, I want to browse local bands that I havent seen yet.
 
 # Use Cases
 
