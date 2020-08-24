@@ -6,8 +6,8 @@ MSSA Cloud Application Project
 
 # Table of Contents
 
-1. Concept [x]
-2. Initaial Presentation [x]
+1. Concept - [x]
+2. Initaial Presentation - [x]
 3. Database Concept Design (ERD) [x]
 4. Database Draft [x]
 5. UI/UX Design [x]
