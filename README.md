@@ -70,14 +70,38 @@ The inspiration for this project came from my youngest sister, who has her own b
  2.6 | Given user selection of the "Search by ZIP", display input ZIP bar.
  
 
-# Use-Case Diagram
+# ~~Use-Case Diagram~~
 
 # Requirements
 
-| ID | Requirements |
------|---------------
- 3.1 | System will allow users to registers.
- 3.2 | System will allow users to login.
- 3.3 | 
+| ID  | Requirements |
+------|---------------
+ 3.1.1 | System shall allow users to login.
+ 3.1.2 | System shall allow users to input username and password.
+ 3.1.3 | System shall validate login credentials agaisnt the database.
+ 3.1.4 | System shall redirect user to homepage.
+ 3.2.1 | System shall direct new users to registration page.
+ 3.2.2 | System shall store data entered by the user in the database.
+ 3.2.3 | System shall ask for verification from user.
+ 3.3.1 | System shall allow user to input search data.
+ 3.3.2 | System shall allow user to filter search results by set criteria.
+ 3.3.3 | System shall allow user to navigate to band or venue homepage from search results.
+ 3.4.1 | System shall allow user to favorite band or venue homepage.
+ 3.4.2 | System shall allow user to follow URL to band or venue social media pages.
+ 3.4.3 | System shall allow user to follow URL to band or venue webpage.
+ 3.5.1 | System shall allow user to browse bands/venues on map.
+ 3.5.2 | System shall get user location if geolocation is activated.
+ 3.5.3 | System shall allow user to adjust search distance.
+ 3.5.4 | System shall show user location on map.
+ 3.5.5 | System shall display all returned results on map.
+ 3.5.6 | System shall display all returned results concurrently on the side of page.
+ 3.6.1 | System shall index favorited results into database.
 
 # Test Cases
+
+| ID | Test | Status | Time-Stamp | 
+-----|------|--------|------------|
+T1.1 | Ensure login links function properly. | In Development |    |
+T1.2 |
+
+
