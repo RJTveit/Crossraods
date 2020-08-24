@@ -37,6 +37,18 @@ The inspiration for this project came from my youngest sister, who has her own b
 
 ## Homepage ![Homepage](https://github.com/RJTveit/Crossroads/blob/master/Homepage.png?raw=true)
 
+## New User ![Reg.](https://github.com/RJTveit/Crossroads/blob/master/Registration.png?raw=true)
+
+## User Registration ![UserReg](https://github.com/RJTveit/Crossroads/blob/master/User_Registration.png?raw=true)
+
+## Band Registration ![BandReg](https://github.com/RJTveit/Crossroads/blob/master/Band_Registration.png?raw=true)
+
+## Venue Sign-Up ![VenSignUp](https://github.com/RJTveit/Crossroads/blob/master/Venue_Registration.png?raw=true)
+
+## Band Homepage ![BndHmpg](https://github.com/RJTveit/Crossroads/blob/master/Band_HomePage.png?raw=true)
+
+## Venue Homepage ![VenHmpg](https://github.com/RJTveit/Crossroads/blob/master/Venue_HomePage.png?raw=true)
+
 # User Stories
 
 # Use Cases
