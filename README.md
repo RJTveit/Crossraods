@@ -101,7 +101,18 @@ The inspiration for this project came from my youngest sister, who has her own b
 
 | ID | Test | Status | Time-Stamp | 
 -----|------|--------|------------|
-T1.1 | Ensure login links function properly. | In Development |    |
-T1.2 |
+TC 1.1 | Ensure login links function properly. | In Development |    |
+TC 1.2 | Ensure login input fields properly validate user credentials. |    |
+TC 1.3 | Ensure login fields properly linked to database. |   |
+TC 1.4 | Ensure user is redirected to the homepage. |    |
+TC 2.1 | Ensure new users are directed to user registration. |    |
+TC 2.2 | Ensure userdata is properly queried to the database. |    |
+TC 2.3 | Generate verification email sent to user to confirm account. |    |
+TC 3.1 | Ensure that search input is properly queried to the database. |   |
+TC 3.2 | Ensure filter restrictions produce correct database query. |    |
+TC 4.1 | Ensure favorited pages are indexed correctly inside database. |   |
+TC 4.2 | Ensure URL's are properly displayed and linked to correct website. |   |
+TC 5.1 | Ensure geolocation returns correct user ZIP. |   |
+TC 5.2 | Ensure returned results are displauyed correctly on map and list. |    |
 
 
