@@ -31,7 +31,11 @@ The inspiration for this project came from my youngest sister, who has her own b
 
 # Database Draft
 
+* https://github.com/RJTveit/Crossroads/blob/master/CrossRoadsdb.sql
+
 # UI/UX Design
+
+## Homepage ![Homepage](https://github.com/RJTveit/Crossroads/blob/master/Homepage.png?raw=true)
 
 # User Stories
 
