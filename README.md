@@ -122,4 +122,28 @@ TC 5.2 | Ensure returned results are displauyed correctly on map and list. | In 
 
 ![Homepage](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Homepage.png?raw=true)
 
+## Login
+
+![Login](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Login.png?raw=true)
+
+## New User
+
+![New User](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Registration%20Select.png?raw=true)
+
+## User Registration
+
+![User Registration](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/User%20Registration.png?raw=true)
+
+## Band Registration
+
+![Band Registration](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Band%20Registration.png?raw=true)
+
+## Venue Registration
+
+![Venue Reg.](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Venue%20Registration.png?raw=true)
+
+## Band Home
+
+![Band Home](https://github.com/RJTveit/Crossroads/blob/master/Prototype%20Screenshots/Band%20Home.png?raw=true)
+
 
