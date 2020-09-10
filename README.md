@@ -13,7 +13,7 @@ MSSA Cloud Application Project
 - [x] UI/UX Design 
 - [x] User Stories 
 - [x] Use Cases 
-- [ ] Use-Case Diagram 
+- [ ] Use-Case Diagram (Editing)
 - [x] Requirements 
 - [x] Test Cases 
 - [x] Prototypes
