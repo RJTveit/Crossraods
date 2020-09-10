@@ -71,7 +71,7 @@ The inspiration for this project came from my youngest sister, who has her own b
  2.6 | Given user selection of the "Search by ZIP", display input ZIP bar.
  
 
-# ~~Use-Case Diagram~~
+# ~~Use-Case Diagram~~ (Editing)
 
 # Requirements
 
