@@ -28,7 +28,7 @@ The inspiration for this project came from my youngest sister, who has her own b
 
 # Database Concept
 
-* https://github.com/RJTveit/Crossroads/blob/master/Project%20Step%204%20(ERD).vsdx
+ ![Database](https://github.com/RJTveit/Crossroads/blob/master/Project%20Step%204%20(ERD).vsdx)
 
 # Database Draft
 
